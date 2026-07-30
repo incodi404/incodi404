@@ -4,9 +4,10 @@
 
 - 🔭 I'm currently working on **A Golang-based distributed SIEM with integrated incident response, built from scratch — Linux agent with eBPF telemetry, real-time alerting, a central server, and C2-based remediation.**
 
-- 🌱 I'm currently learning **System Design, API Security, eBPF and Kubernetes **
+- 🌱 I'm currently learning **System Design, API Security, eBPF and Kubernetes**
 
-- 👯 I'm looking to collaborate on **1. falcosecurity/plugin-sdk-go
+- 👯 I'm looking to collaborate on
+**1. falcosecurity/plugin-sdk-go
 2. grafana/loki
 3. Linux**
 
