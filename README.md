@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on **[https://buildwithease.hashnode.dev/](https://buildwithease.hashnode.dev/)**
 
-- 📄 Know about my experiences **[https://exmple.com/](https://exmple.com/)**
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1PZFxUV3uedQYl6Wbiypq-SbVEInl3Soj/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
